@@ -13,6 +13,9 @@
   },
   "author": "Mahmudul Alam",
   "license": "ISC",
+  "engines": {
+    "node": "16.20.2"
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "config": "^3.2.4",
